@@ -1,0 +1,12 @@
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Entity\bin\Debug\net6.0\StudentManagementSystem.Entity.deps.json
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Entity\bin\Debug\net6.0\StudentManagementSystem.Entity.dll
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Entity\bin\Debug\net6.0\StudentManagementSystem.Entity.pdb
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Entity\obj\Debug\net6.0\StudentManagementSystem.Entity.csproj.AssemblyReference.cache
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Entity\obj\Debug\net6.0\StudentManagementSystem.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Entity\obj\Debug\net6.0\StudentManagementSystem.Entity.AssemblyInfoInputs.cache
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Entity\obj\Debug\net6.0\StudentManagementSystem.Entity.AssemblyInfo.cs
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Entity\obj\Debug\net6.0\StudentManagementSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Entity\obj\Debug\net6.0\StudentManagementSystem.Entity.dll
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Entity\obj\Debug\net6.0\refint\StudentManagementSystem.Entity.dll
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Entity\obj\Debug\net6.0\StudentManagementSystem.Entity.pdb
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Entity\obj\Debug\net6.0\ref\StudentManagementSystem.Entity.dll

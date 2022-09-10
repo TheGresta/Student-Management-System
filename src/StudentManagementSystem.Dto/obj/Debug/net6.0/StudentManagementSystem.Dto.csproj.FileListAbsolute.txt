@@ -1,0 +1,12 @@
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Dto\bin\Debug\net6.0\StudentManagementSystem.Dto.deps.json
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Dto\bin\Debug\net6.0\StudentManagementSystem.Dto.dll
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Dto\bin\Debug\net6.0\StudentManagementSystem.Dto.pdb
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Dto\obj\Debug\net6.0\StudentManagementSystem.Dto.csproj.AssemblyReference.cache
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Dto\obj\Debug\net6.0\StudentManagementSystem.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Dto\obj\Debug\net6.0\StudentManagementSystem.Dto.AssemblyInfoInputs.cache
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Dto\obj\Debug\net6.0\StudentManagementSystem.Dto.AssemblyInfo.cs
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Dto\obj\Debug\net6.0\StudentManagementSystem.Dto.csproj.CoreCompileInputs.cache
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Dto\obj\Debug\net6.0\StudentManagementSystem.Dto.dll
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Dto\obj\Debug\net6.0\refint\StudentManagementSystem.Dto.dll
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Dto\obj\Debug\net6.0\StudentManagementSystem.Dto.pdb
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Dto\obj\Debug\net6.0\ref\StudentManagementSystem.Dto.dll

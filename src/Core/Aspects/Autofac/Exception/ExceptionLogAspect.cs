@@ -1,4 +1,6 @@
 ﻿using Castle.Core.Interceptor;
+using Core.CrossCuttingConcerns.Logging;
+using Core.CrossCuttingConcerns.Logging.Log4Net;
 using System;
 using System.Collections.Generic;
 using System.Linq;

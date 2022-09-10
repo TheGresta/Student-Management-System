@@ -1,9 +1,8 @@
 ﻿using Castle.Core.Interceptor;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Core.CrossCuttingConcerns.Logging;
+using Core.CrossCuttingConcerns.Logging.Log4Net;
+using Core.Utilities.Interceptors;
+using Core.Utilities.Messages;
 
 namespace Core.Aspects.Autofac.Logging
 {
@@ -49,3 +48,4 @@ namespace Core.Aspects.Autofac.Logging
         }
 
     }
+}

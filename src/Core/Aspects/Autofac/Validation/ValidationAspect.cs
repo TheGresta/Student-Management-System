@@ -1,4 +1,5 @@
-﻿using Castle.DynamicProxy;
+﻿using Castle.Core.Interceptor;
+using Castle.DynamicProxy;
 using Core.CrossCuttingConcerns.Validation;
 using Core.Exceptions;
 using Core.Utilities.Interceptors;

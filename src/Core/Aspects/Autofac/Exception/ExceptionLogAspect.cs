@@ -1,11 +1,8 @@
 ﻿using Castle.Core.Interceptor;
 using Core.CrossCuttingConcerns.Logging;
 using Core.CrossCuttingConcerns.Logging.Log4Net;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Core.Utilities.Interceptors;
+using Core.Utilities.Messages;
 
 namespace Core.Aspects.Autofac.Exception
 {

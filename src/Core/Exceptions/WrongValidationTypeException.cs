@@ -1,4 +1,4 @@
-﻿using Core.Utilities.AspectMessage;
+﻿using Core.Utilities.Messages;
 
 namespace Core.Exceptions
 {

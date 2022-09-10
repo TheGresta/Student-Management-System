@@ -1,5 +1,4 @@
-﻿using Core.Dynamic;
-using Core.Entity;
+﻿using Core.Entity;
 using Core.Paging;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Query;

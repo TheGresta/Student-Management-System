@@ -1,4 +1,4 @@
-﻿using Core.Entities.Concrete;
+﻿using Core.Entity.Concrete;
 
 namespace Core.Utilities.Security.JWT
 {

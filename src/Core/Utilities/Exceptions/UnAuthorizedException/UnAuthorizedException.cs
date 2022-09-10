@@ -1,4 +1,4 @@
-namespace Core.Utilities.Exception.UnAuthorizedException
+namespace Core.Utilities.Exceptions.UnAuthorizedException
 {
     public class UnAuthorizedException : SystemException
     {

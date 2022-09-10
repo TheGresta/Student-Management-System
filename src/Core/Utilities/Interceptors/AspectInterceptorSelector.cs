@@ -1,6 +1,4 @@
 ﻿using Castle.Core.Interceptor;
-using Core.Aspects.Autofac.Exception;
-using Core.CrossCuttingConcerns.Logging.Log4Net.Loggers;
 using System.Reflection;
 
 

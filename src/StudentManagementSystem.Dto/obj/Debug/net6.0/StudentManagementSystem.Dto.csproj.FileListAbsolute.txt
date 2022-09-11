@@ -10,3 +10,6 @@ C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementS
 C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Dto\obj\Debug\net6.0\refint\StudentManagementSystem.Dto.dll
 C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Dto\obj\Debug\net6.0\StudentManagementSystem.Dto.pdb
 C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Dto\obj\Debug\net6.0\ref\StudentManagementSystem.Dto.dll
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Dto\bin\Debug\net6.0\Core.dll
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Dto\bin\Debug\net6.0\Core.pdb
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.Dto\obj\Debug\net6.0\StudentManagementSystem.Dto.csproj.CopyComplete

@@ -10,8 +10,6 @@ namespace StudentManagementSystem.Entity.Concrete
         [ForeignKey("UserId")]
         public User User { get; set; }
         public string Number { get; set; }
-        [ForeignKey("Number")]
-        public StudentNumber StudentNumber { get; set; }
         public decimal GradeValue { get; set; }
         [ForeignKey("GradeValue")]
         public Grade Grade { get; set; }

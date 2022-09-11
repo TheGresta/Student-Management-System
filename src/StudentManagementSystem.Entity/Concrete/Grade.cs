@@ -6,9 +6,9 @@ namespace StudentManagementSystem.Entity.Concrete
 {
     public class Grade : BaseEntity
     {
-        public decimal GradeValue { get; set; }
-        public int UserId { get; set; }
-        [ForeignKey("UserId")]
-        public User User { get; set; }
+        public decimal? GradeValue { get; set; }
+        public int StudentId { get; set; }
+        [ForeignKey("StudentId")]
+        public Student Student { get; set; }
     }
 }

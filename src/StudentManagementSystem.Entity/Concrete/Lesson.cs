@@ -9,9 +9,9 @@ namespace StudentManagementSystem.Entity.Concrete
         public string Name { get; set; }
         public int TeacherId { get; set; }
         [ForeignKey("TeacherId")]
-        public User User { get; set; }
-        public List<StudentNumber> StudentNumberList { get; set; }
-        [ForeignKey("StudentNumberList")]
-        public StudentNumber StudentNumber { get; set; }
+        public Teacher Teacher { get; set; }
+        public List<Student> StudentList { get; set; }
+        [ForeignKey("StudentList")]
+        public Student Student { get; set; }
     }
 }

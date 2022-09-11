@@ -6,4 +6,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Mapster" Version="7.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj" />
+    <ProjectReference Include="..\StudentManagementSystem.DataAccess\StudentManagementSystem.DataAccess.csproj" />
+    <ProjectReference Include="..\StudentManagementSystem.Dto\StudentManagementSystem.Dto.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -2,7 +2,7 @@
 
 namespace StudentManagementSystem.Dto.Concrete.Teacher
 {
-    internal class TeacherReadDto : IReadDto
+    public class TeacherReadDto : IReadDto
     {
         public int Id { get; set; }
         public string Expertise { get; set; }

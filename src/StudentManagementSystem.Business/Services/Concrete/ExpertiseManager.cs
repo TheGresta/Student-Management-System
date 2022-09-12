@@ -1,5 +1,4 @@
-﻿using Core.Aspects.Validation;
-using Core.Paging;
+﻿using Core.Paging;
 using Core.Utilities.Message;
 using Core.Utilities.Result;
 using Microsoft.EntityFrameworkCore.Query;
@@ -11,9 +10,9 @@ using System.Linq.Expressions;
 
 namespace StudentManagementSystem.Business.Services.Concrete
 {
-    public class ExpertiseService : BaseManager<Expertise, ExpertiseWriteDto, ExpertiseReadDto>, IExpertiseService
+    public class ExpertiseManager : BaseManager<Expertise, ExpertiseWriteDto, ExpertiseReadDto>, IExpertiseService
     {
-        public ExpertiseService(IExpertiseDal repository, ILanguageMessage languageMessage) : base(repository, languageMessage)
+        public ExpertiseManager(IExpertiseDal repository, ILanguageMessage languageMessage) : base(repository, languageMessage)
         {
         }
 

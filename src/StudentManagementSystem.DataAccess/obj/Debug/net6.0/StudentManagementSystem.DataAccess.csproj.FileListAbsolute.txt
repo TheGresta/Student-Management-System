@@ -10,3 +10,8 @@ C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementS
 C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.DataAccess\obj\Debug\net6.0\refint\StudentManagementSystem.DataAccess.dll
 C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.DataAccess\obj\Debug\net6.0\StudentManagementSystem.DataAccess.pdb
 C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.DataAccess\obj\Debug\net6.0\ref\StudentManagementSystem.DataAccess.dll
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.DataAccess\bin\Debug\net6.0\StudentManagementSystem.Entity.dll
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.DataAccess\bin\Debug\net6.0\StudentManagementSystem.Entity.pdb
+C:\Users\DincF\Documents\GitHub\Student-Management-System\src\StudentManagementSystem.DataAccess\obj\Debug\net6.0\StudentManagementSystem.DataAccess.csproj.CopyComplete

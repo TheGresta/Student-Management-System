@@ -1,4 +1,6 @@
-﻿namespace Core.Entity.Concrete
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace Core.Entity.Concrete
 {
     public class User : BaseEntity
     {

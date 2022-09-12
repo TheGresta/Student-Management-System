@@ -1,5 +1,4 @@
-﻿using Core.Entity.Concrete;
-using Core.Exceptions;
+﻿using Core.Exceptions;
 using Core.Paging;
 using Core.Utilities.Message;
 using Core.Utilities.Result;
@@ -8,10 +7,7 @@ using Microsoft.EntityFrameworkCore.Query;
 using StudentManagementSystem.Business.Services.Abstract;
 using StudentManagementSystem.DataAccess.Abstract;
 using StudentManagementSystem.DataAccess.Context;
-using StudentManagementSystem.Dto.Concrete.Grade;
 using StudentManagementSystem.Dto.Concrete.Lesson;
-using StudentManagementSystem.Dto.Concrete.Student;
-using StudentManagementSystem.Dto.Concrete.User;
 using StudentManagementSystem.Entity.Concrete;
 using System.Linq.Expressions;
 
@@ -47,26 +43,26 @@ namespace StudentManagementSystem.Business.Services.Concrete
             return new SuccessDataResult<LessonReadDto>(addedEntity.Adapt<LessonReadDto>(), _languageMessage.SuccessAdd);
         }
 
-        public async override Task<DataResult<GradeReadDto>> UpdateAsync(int id, GradeWriteDto writeDto)
+        public async override Task<DataResult<LessonReadDto>> UpdateAsync(int id, LessonWriteDto writeDto)
         {
             return await base.UpdateAsync(id, writeDto);
         }
 
-        public override async Task<DataResult<GradeReadDto>> DeleteAsync(int id)
+        public override async Task<DataResult<LessonReadDto>> DeleteAsync(int id)
         {
             return await base.DeleteAsync(id);
         }
 
-        public override async Task<DataResult<GradeReadDto>> GetByIdAsync(int id)
+        public override async Task<DataResult<LessonReadDto>> GetByIdAsync(int id)
         {
             return await base.GetByIdAsync(id);
         }
 
 
-        public override async Task<DataResult<IPaginate<GradeReadDto>>> GetListAsync(
-            Expression<Func<Grade, bool>>? predicate = null,
-            Func<IQueryable<Grade>, IOrderedQueryable<Grade>>? orderBy = null,
-            Func<IQueryable<Grade>, IIncludableQueryable<Grade, object>>?
+        public override async Task<DataResult<IPaginate<LessonReadDto>>> GetListAsync(
+            Expression<Func<Lesson, bool>>? predicate = null,
+            Func<IQueryable<Lesson>, IOrderedQueryable<Lesson>>? orderBy = null,
+            Func<IQueryable<Lesson>, IIncludableQueryable<Lesson, object>>?
             include = null, int index = 0, int size = 10, bool enamleTracking = true,
             CancellationToken cancellationToken = default)
         {
